@@ -11,6 +11,18 @@ node_modules
 dist
 dist-ssr
 *.local
+package-lock.json
+yarn.lock
+# misc
+.eslintcache
+.DS_Store
+.idea
+.env
+.env.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
 
 # Editor directories and files
 .vscode/*
